@@ -55,4 +55,3 @@ New-SmbShare -Name "$login$" -Path C:\Partage\$login -FullAccess "Administrateur
 $confirmation2 = Read-Host "Souhaitez vous recommencer ?"
 
 }until($confirmation2 -eq 'n')
-
