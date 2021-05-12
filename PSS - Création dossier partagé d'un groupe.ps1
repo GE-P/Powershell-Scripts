@@ -1,4 +1,13 @@
-﻿
+
+#-------------------------------------
+
+#Script de création de dossiers partagés (Lecteur groupe) d'un Active Directory
+#Version 0.1 
+#Codeur Gerhard Eibl "GE-P"
+#https://github.com/GE-P
+
+#-------------------------------------
+
 Clear-Host
 
 Write-Host "
