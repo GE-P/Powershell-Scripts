@@ -1,4 +1,13 @@
-﻿
+
+#-------------------------------------
+
+#Script de listage des imprimantes d'un Active Directory
+#Version 0.1 
+#Codeur Gerhard Eibl "GE-P"
+#https://github.com/GE-P
+
+#-------------------------------------
+
 $Confirmation1 = Read-Host "Souhaitez vous lister les Imprimantes ?"
 
 if ($Confirmation1 -eq 'y') {
