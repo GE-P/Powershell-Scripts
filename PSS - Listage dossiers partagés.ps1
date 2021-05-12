@@ -1,4 +1,11 @@
-﻿
+#-------------------------------------
+
+#Script pour lister les dossiers partagés d'un Active Directory et en exporter un fichier texte
+#Version 0.1 
+#Codeur Gerhard Eibl "GE-P"
+#https://github.com/GE-P
+
+#-------------------------------------
 
 
 $Confirmation1 = Read-Host "Souhaitez vous lister les dossiers partagés ?"
