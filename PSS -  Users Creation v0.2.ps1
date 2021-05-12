@@ -1,4 +1,14 @@
-﻿Do {
+
+#-------------------------------------
+
+#Script de création d'utilisateurs d'un Active Directory
+#Version 0.1 
+#Codeur Gerhard Eibl "GE-P"
+#https://github.com/GE-P
+
+#-------------------------------------
+
+Do {
 
 $confirmation1 = Read-Host "Souhaitez vous créer un utilisateur ?"
 
